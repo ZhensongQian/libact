@@ -1,3 +1,5 @@
+ALBL ruuning time comparison? 
+
 # libact: Pool-based Active Learning in Python
 
 authors: Yao-Yuan Yang, Shao-Chuan Lee, Yu-An Chung, Tung-En Wu, Si-An Chen, [Hsuan-Tien Lin](http://www.csie.ntu.edu.tw/~htlin)

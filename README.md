@@ -1,4 +1,4 @@
-ALBL ruuning time comparison? 
+ALBL ruuning time comparison? raised the issued already.
 
 # libact: Pool-based Active Learning in Python
 
